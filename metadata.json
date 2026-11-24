@@ -1,0 +1,8 @@
+{
+  "name": "Cartão Saúde Baby",
+  "description": "Cartão de descontos pediátrico e infantil 100% virtual com descontos de até 50% na rede credenciada por R$ 79,90 por ano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
